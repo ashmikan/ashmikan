@@ -74,7 +74,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me</h2></summary>
+    <h2 style="display: inline-block">Connect With Me</h2>
   </ul>
 </div>
 <p align="center">
